@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\User\source\repos\SFML\SFML\main.cpp(18,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\SFML\SFML\main.cpp(52,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\SFML\SFML\main.cpp(52,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\SFML\SFML\main.cpp(123,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\SFML\SFML\main.cpp(163,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\SFML\SFML\main.cpp(163,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\User\source\repos\SFML\SFML\main.cpp(288,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\SFML\SFML\main.cpp(298,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\SFML\SFML\main.cpp(299,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\SFML\SFML\main.cpp(310,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\SFML\SFML\main.cpp(328,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\SFML\SFML\main.cpp(331,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\SFML\SFML\main.cpp(334,31): warning C4018: '<': signed/unsigned mismatch
+  SFML.vcxproj -> C:\Users\User\source\repos\SFML\Debug\SFML.exe
